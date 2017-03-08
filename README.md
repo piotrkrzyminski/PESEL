@@ -1,2 +1,5 @@
 # PESEL
-Prosty program sprawdzający poprawność cyfry kontrolnej
+
+Jest to prosty program sprawdzający poprawność podanego przez użytkownika numeru PESEL. Aplikacja sprawdza poprawność ciągu
+za pomocą wyrażeń regularnych, a następnie sprawdza czy ostatnia cyfra numeru - cyfra kontrolna jest poprawna.
+Wynik jest zwracany poniżej pola tekstowego. Program wykonany zostać z wykorzystaniem wzorca Model-View-Controller
